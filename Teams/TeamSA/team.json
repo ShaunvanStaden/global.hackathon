@@ -1,0 +1,36 @@
+{
+  "teamName": "TeamSA",
+  "members": [
+    {
+      "name": "Shaun van Staden",
+      "twitter": "@whetizdiz",
+      "koding": "ShaunvanStaden",
+      "location": "Johannesburg, ZA"
+    },
+    {
+      "name": "",
+      "twitter": "",
+      "koding": "",
+      "location": ", "
+    },
+    {
+      "name": "Test",
+      "twitter": "Testing",
+      "koding": "sinan",
+      "location": "San Francsico, US",
+      "lead": true
+    },
+    {
+      "name": "",
+      "twitter": "",
+      "koding": "",
+      "location": ", "
+    },
+    {
+      "name": "",
+      "twitter": "",
+      "koding": "",
+      "location": ", "
+    }
+  ]
+}
